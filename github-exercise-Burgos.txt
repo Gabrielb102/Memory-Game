@@ -16,3 +16,6 @@ git push -u origin main
 //PART 3 
 git checkout -b black
 * change background color in memory game to black, as well as some other changes*
+git add .
+git commit -m "change bg to black"
+git push origin black
