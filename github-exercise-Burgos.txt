@@ -18,4 +18,6 @@ git checkout -b black
 * change background color in memory game to black, as well as some other changes*
 git add .
 git commit -m "change bg to black"
+
+//PART 4
 git push origin black
