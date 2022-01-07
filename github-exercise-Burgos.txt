@@ -1,0 +1,18 @@
+//PART 1
+cd memory-game
+git init
+git status
+git add .
+git commit -m "initial commit"
+echo "#Memory Game ##Made for Springboard by Gabriel Burgos" >> README.md
+git add README.md
+git commit -m "add README.md"
+
+//PART 2
+* create new repo on GitHub titled "Memory-Game" *
+git remote add https://github.com/Gabrielb102/Memory-Game.git
+git push -u origin main
+
+//PART 3 
+git checkout -b black
+* change background color in memory game to black, as well as some other changes*
